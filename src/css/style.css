@@ -70,3 +70,8 @@ button {
   background-color: white;
   cursor: pointer;
 }
+
+.btn-area {
+  display: flex;
+  gap: 0.5rem;
+}
